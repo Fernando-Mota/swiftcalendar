@@ -1,0 +1,5 @@
+use_frameworks!
+
+target 'calendar' do
+    pod 'JTAppleCalendar', '~> 7.0'
+end
